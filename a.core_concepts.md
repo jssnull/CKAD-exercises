@@ -89,7 +89,7 @@ kubectl logs busybox
 </p>
 </details>
 
-### Create a busybox pod (using YAML) that runs the command "env". Run it and see the output
+### Create a busybox pod (using YAML) that runs the command "env". Run it and see the output (DONE)
 
 <details><summary>show</summary>
 <p>
