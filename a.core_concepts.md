@@ -154,7 +154,7 @@ kubectl create quota myrq --hard=cpu=1,memory=1G,pods=2 --dry-run=client -o yaml
 </p>
 </details>
 
-### Get pods on all namespaces
+### Get pods on all namespaces (DONE)
 
 <details><summary>show</summary>
 <p>
