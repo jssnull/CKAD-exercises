@@ -26,7 +26,7 @@ kubectl run nginx --image=nginx --restart=Never -n mynamespace
 
 
 
-### Create the pod that was just described using YAML
+### Create the pod that was just described using YAML (DONE)
 
 <details><summary>show</summary>
 <p>
