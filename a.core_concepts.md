@@ -130,7 +130,7 @@ kubectl logs busybox
 </p>
 </details>
 
-### Get the YAML for a new namespace called 'myns' without creating it
+### Get the YAML for a new namespace called 'myns' without creating it (DONE)
 
 <details><summary>show</summary>
 <p>
