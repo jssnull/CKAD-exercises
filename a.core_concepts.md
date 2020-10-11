@@ -11,7 +11,7 @@ kubernetes.io > Documentation > Tasks > Access Applications in a Cluster > [Acce
 
 kubernetes.io > Documentation > Tasks > Access Applications in a Cluster > [Use Port Forwarding to Access Applications in a Cluster](https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
 
-### Create a namespace called 'mynamespace' and a pod with image nginx called nginx on this namespace
+### Create a namespace called 'mynamespace' and a pod with image nginx called nginx on this namespace (DONE)
 
 <details><summary>show</summary>
 <p>
@@ -23,6 +23,8 @@ kubectl run nginx --image=nginx --restart=Never -n mynamespace
 
 </p>
 </details>
+
+
 
 ### Create the pod that was just described using YAML
 
