@@ -170,7 +170,7 @@ kubectl get po -A
 </p>
 </details>
 
-### Create a pod with image nginx called nginx and expose traffic on port 80
+### Create a pod with image nginx called nginx and expose traffic on port 80 (DONE)
 
 <details><summary>show</summary>
 <p>
@@ -182,7 +182,7 @@ kubectl run nginx --image=nginx --restart=Never --port=80
 </p>
 </details>
 
-### Change pod's image to nginx:1.7.1. Observe that the container will be restarted as soon as the image gets pulled
+### Change pod's image to nginx:1.7.1. Observe that the container will be restarted as soon as the image gets pulled (DONE)
 
 <details><summary>show</summary>
 <p>
