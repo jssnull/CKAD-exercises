@@ -290,7 +290,7 @@ kubectl logs nginx
 </p>
 </details>
 
-### If pod crashed and restarted, get logs about the previous instance
+### If pod crashed and restarted, get logs about the previous instance (DONE)
 
 <details><summary>show</summary>
 <p>
