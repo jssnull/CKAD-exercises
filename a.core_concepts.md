@@ -278,7 +278,7 @@ kubectl describe po nginx
 </p>
 </details>
 
-### Get pod logs
+### Get pod logs (nginx)
 
 <details><summary>show</summary>
 <p>
