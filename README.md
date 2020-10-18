@@ -10,7 +10,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 ## Contents
 
-- [Core Concepts - 13%](a.core_concepts.md)
+- [Core Concepts - 13%](a.core_concepts.md) (DONE)
 - [Multi-container pods - 10%](b.multi_container_pods.md)
 - [Pod design - 20%](c.pod_design.md)
 - [Configuration - 18%](d.configuration.md)
