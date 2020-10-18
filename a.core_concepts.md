@@ -266,7 +266,7 @@ kubectl get po nginx --output=yaml
 </p>
 </details>
 
-### Get information about the pod, including details about potential issues (e.g. pod hasn't started)
+### Get information about the pod, including details about potential issues (e.g. pod hasn't started) (DONE)
 
 <details><summary>show</summary>
 <p>
