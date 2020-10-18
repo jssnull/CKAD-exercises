@@ -248,7 +248,7 @@ kubectl run busybox --image=busybox --rm -it --restart=Never -- wget -O- $(kubec
 </p>
 </details>
 
-### Get pod's YAML
+### Get pod's YAML (DONE)
 
 <details><summary>show</summary>
 <p>
