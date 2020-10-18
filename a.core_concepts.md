@@ -302,7 +302,7 @@ kubectl logs nginx -p
 </p>
 </details>
 
-### Execute a simple shell on the nginx pod
+### Execute a simple shell on the nginx pod (DONE)
 
 <details><summary>show</summary>
 <p>
@@ -314,7 +314,7 @@ kubectl exec -it nginx -- /bin/sh
 </p>
 </details>
 
-### Create a busybox pod that echoes 'hello world' and then exits
+### Create a busybox pod that echoes 'hello world' and then exits (DONE)
 
 <details><summary>show</summary>
 <p>
@@ -341,7 +341,7 @@ kubectl get po # nowhere to be found :)
 </p>
 </details>
 
-### Create an nginx pod and set an env value as 'var1=val1'. Check the env value existence within the pod
+### Create an nginx pod and set an env value as 'var1=val1'. Check the env value existence within the pod (DONE)
 
 <details><summary>show</summary>
 <p>
